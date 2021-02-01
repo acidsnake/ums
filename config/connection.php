@@ -1,6 +1,6 @@
 <?php
 
-$config = require_once("database.php");
+$config = require "database.php";
 
 $conn = new mysqli(
     $config['host'],

@@ -5,4 +5,5 @@ return [
     'database' => 'ums',
     'username' => 'root',
     'password' => 'root',
+    'recordsPerPage' => 10
 ];
